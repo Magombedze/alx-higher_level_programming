@@ -1,0 +1,1 @@
+Object-relational mapping is a programming technique for converting data between incompatible type systems using object-oriented programming languages. This creates, in effect, a virtual object database that can be used from within the programming language. This project covers relational mapping along SQL with Python.
