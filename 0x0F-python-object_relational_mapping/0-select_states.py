@@ -16,7 +16,7 @@ if __name__ == '__main__':
 
     cur.execute("SELECT * FROM states")
 
-    rows_selected = cur.fetchall()
+    rows = cur.fetchall()
 
-    for row in rows_selected:
+    for row in rows:
         print(row)
